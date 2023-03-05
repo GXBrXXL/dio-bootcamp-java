@@ -23,3 +23,5 @@
 hs_err_pid*
 java-main/.vscode/settings.json
 tv-java/.vscode/settings.json
+tv-java/src/App.java
+java-main/.vscode/launch.json
